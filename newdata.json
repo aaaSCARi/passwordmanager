@@ -1,0 +1,18 @@
+{
+    "amazon": {
+        "EMAIL": "example@gmail.com",
+        "Password": "*01cmbyU4yDY5+"
+    },
+    "myntra": {
+        "EMAIL": "example@gmail.com",
+        "Password": "t(V$A8mX0PRk2Y)s"
+    },
+    "reddit": {
+        "EMAIL": "annie",
+        "Password": "VYu)(Ea3SxF8Qo"
+    },
+    "ar": {
+        "EMAIL": "example@gmail.com",
+        "Password": "afdaf"
+    }
+}
